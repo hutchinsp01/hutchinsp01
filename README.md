@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paul Hutchins!</h1>
-<h4 align="center">Junior Software Engineer | Undergraduate Student</h4>
+<h4 align="center">Developer <a href="https://uptickhq.com/au/">@Uptick</a> | Undergraduate Student</h4>
 <p align="center">
 	<a href="https://github.com/hutchinsp01">
 		<img src="https://komarev.com/ghpvc/?username=hutchinsp01&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
