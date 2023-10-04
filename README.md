@@ -11,7 +11,7 @@
 <hr>
   <pre>
   📚 Final year Bachelor of Science - Computing and Software Systems at The University of Melbourne
-  📝 Current Simulations Sub Team Lead at Ares - Unimelb
+  📝 Previous Simulations Sub Team Lead at Ares - Unimelb
   🚩 Interested in Web Development, Artificial Intelligence and Financial Services
   </pre>
 <hr>
