@@ -16,7 +16,6 @@
   </pre>
 <hr>
 
-<hr>
 <h2 align="center">My Projects</h2>
 <div align="center">
   <p>
