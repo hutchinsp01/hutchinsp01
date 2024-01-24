@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paul Hutchins!</h1>
-<h4 align="center">Developer <a href="https://uptickhq.com/au/">@Uptick</a> | Undergraduate Student</h4>
+<h4 align="center">Developer <a href="https://uptickhq.com/au/">@Uptick</a> | Computing and Software Systems Graduate</h4>
 <p align="center">
 	<a href="https://github.com/hutchinsp01">
 		<img src="https://komarev.com/ghpvc/?username=hutchinsp01&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
@@ -10,7 +10,7 @@
 </p>
 <hr>
   <pre>
-  📚 Final year Bachelor of Science - Computing and Software Systems at The University of Melbourne
+  📚 Computing and Software Systems Graduate from The University of Melbourne
   📝 Previous Simulations Sub Team Lead at Ares - Unimelb
   🚩 Interested in Web Development, Artificial Intelligence and Financial Services
   </pre>
